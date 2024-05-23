@@ -1,0 +1,131 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS specific
+.DS_Store
+
+# Visual Studio Code specific
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dist directory
+dist/
+build/
+
+# Cache directories
+.cache/
+.next/
+.nuxt/
+out/
+.tmp/
+
+# Coverage directory used by tools like istanbul/jest
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Project specific
+.DS_Store
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.stackdump
+*.dll
+*.dylib
+*.so
+
+# TypeScript specific
+*.tsbuildinfo
+*.tscache
+
+# Output from different build tools
+*.war
+*.ear
+*.jar
+*.class
+
+# Other
+*.bak
+*.swp
+*.lock
+*.pyc
+*.pyo
+*.out
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.pid.pid
+*.pid.pid.lock
+*.log*
+
+# JetBrains IDEs specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ IDEA generated files
+/.idea
+*.iws
+*.iml
+/out
+
+# Eclipse specific
+.project
+.classpath
+.cproject
+.settings/
+.apt_generated/
+.factorypath
+
+# Visual Studio specific
+*.sln
+*.csproj
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ruby specific
+*.gem
+*.rbc
